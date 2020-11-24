@@ -21,7 +21,7 @@ organizations:
     url: www.ece.nus.edu.sg
 education:
   courses:
-    - course: PhD in ECE (control and optimization)
+    - course: PhD in ECE
       institution: The Ohio State University
       year: 2017
     - course: MS in Mathematics
@@ -30,7 +30,7 @@ education:
     - course: MS in Control
       institution: Harbin Institute of Technology
       year: 2012
-    - course: BS in Control (with honor)
+    - course: BS in Control
       institution: Harbin Institute of Technology
       year: 2010
 email: elezhli@nus.edu.sg
