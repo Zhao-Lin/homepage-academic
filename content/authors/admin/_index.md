@@ -1,7 +1,6 @@
 ---
 title: ZHAO Lin
-role: Assistant Professor, Dept. of Electrical and Computer Engineering,
-  National University of Singapore
+role: Assistant Professor
 avatar_filename: img_2005-2-.jpg
 bio: My research interests include control theory, reinforcement learning, and
   various UAV applications
@@ -12,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: elezhli@nus.edu.sg
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=091lFhYAAAAJ&hl=en
