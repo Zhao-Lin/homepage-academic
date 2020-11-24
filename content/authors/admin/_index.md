@@ -1,6 +1,6 @@
 ---
 title: ZHAO Lin
-role: Assistant Professor of CISR, Dept. of Electrical and Computer Engineering,
+role: Assistant Professor, Dept. of Electrical and Computer Engineering,
   National University of Singapore
 avatar_filename: img_2005-2-.jpg
 bio: My research interests include control theory, reinforcement learning, and
@@ -28,17 +28,14 @@ education:
     - course: MS in Mathematics
       institution: The Ohio State University
       year: 2017
-    - course: BS, MS in Control
+    - course: MS in Control
+      institution: Harbin Institute of Technology
+      year: 2012
+    - course: BS in Control (with honor)
       institution: Harbin Institute of Technology
       year: 2010
 email: elezhli@nus.edu.sg
 superuser: true
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
