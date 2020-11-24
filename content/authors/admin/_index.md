@@ -7,7 +7,7 @@ bio: My research interests include control theory, reinforcement learning, and
 interests:
   - Control theory
   - Learning theory
-  - Robotics
+  - UAV
 social:
   - icon: envelope
     icon_pack: fas
